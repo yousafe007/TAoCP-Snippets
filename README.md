@@ -1,2 +1,2 @@
 # TAoCP-CLRS-Snippets
-Implementation of different algorithms i struck upon in TAoCP and CLRS
+Implementation of different algorithms I struck upon in TAoCP and CLRS
